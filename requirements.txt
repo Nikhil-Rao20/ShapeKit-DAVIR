@@ -1,0 +1,5 @@
+numpy
+scipy
+nibabel
+scikit-image
+connected-components-3d
